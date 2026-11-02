@@ -71,15 +71,6 @@ Computer Science graduate (2026) from Cairo. I build analytics that start with a
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=abdallaatarekk&theme=dark&border_radius=10&hide_border=true" alt="GitHub streak">
-</p>
-
 <p align="center">
   <sub>Let's talk about your data → <a href="mailto:abdallahtarek.work@gmail.com">abdallahtarek.work@gmail.com</a></sub>
 </p>
