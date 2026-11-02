@@ -84,7 +84,10 @@ Explore my portfolio for additional projects, including Sales Performance Dashbo
 - **Advanced SQL & SQL Server:** Query Optimization, Execution Plans, Indexing, Stored Procedures, and Advanced Window Functions.
 - **ETL & Data Warehousing:** SSIS, Incremental Data Loads, Slowly Changing Dimensions (SCD), and Dimensional Modeling.
 - **Advanced Power BI:** Dynamic Row-Level Security (RLS), DAX Optimization, Incremental Refresh, and Enterprise Report Performance.
-- **Data Orchestration:** Workflow Automation with n8n, Data Quality Monitoring, Error Handling, and exploring Apache Airflow and dbt.
+- **Microsoft Fabric:** OneLake, Lakehouse, Data Warehouse, Data Factory Pipelines, PySpark Notebooks, and Direct Lake.
+- **Microsoft Azure:** Azure Data Lake Storage Gen2, Azure SQL Database, Azure Data Factory, Azure Databricks, and Cloud Fundamentals.
+- **Data Orchestration & Automation:** n8n Workflows, Automated Data Quality Monitoring, Error Handling, and exploring Apache Airflow and dbt.
+- **Data Governance & Deployment:** Microsoft Purview, Data Lineage, Data Catalog, Git Integration, CI/CD, and Deployment Pipelines.
 
 ## Let's Connect
 
