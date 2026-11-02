@@ -27,41 +27,6 @@ Computer Science graduate (2026) from Cairo. I build analytics that start with a
 | ⚽ | My graduation project was a football scouting system |
 | 🎯 | Looking for an entry-level **Data Analyst / BI** role |
 
----
-
-## 🧭 How I work: the Customer360 pipeline
-
-```mermaid
-flowchart LR
-    A["5 sources<br/>CRM · orders · products<br/>tickets · clickstream"] --> B["🥉 Bronze<br/>raw, untouched"]
-    B --> C["🥈 Silver<br/>cleaned and validated"]
-    C --> D["🥇 Gold<br/>star schema"]
-    D --> E["📊 Power BI<br/>3 dashboards"]
-    D --> F["🤖 n8n<br/>data quality checks"]
-    F --> G["📝 Google Sheets<br/>audit log"]
-
-    classDef raw fill:#C98B5B,stroke:#8A5A33,color:#0B1220
-    classDef clean fill:#CBD5E1,stroke:#64748B,color:#0B1220
-    classDef gold fill:#F5B942,stroke:#B7791F,color:#0B1220
-    classDef out fill:#2DD4BF,stroke:#0F766E,color:#0B1220
-    class B raw
-    class C clean
-    class D gold
-    class E,F,G out
-```
-
-**What it found:** 1,734 duplicate customer IDs, 1,040 missing emails and 11,163 orders flagged for data issues, across 300K+ order records.
-
-<p align="center">
-  <a href="https://github.com/abdallaatarekk/customer360-analytics-platform">
-    <img src="https://raw.githubusercontent.com/abdallaatarekk/customer360-analytics-platform/main/screenshots/executive-overview.jpeg" width="48%" alt="Customer360 Executive Overview dashboard">
-  </a>
-  <a href="https://github.com/abdallaatarekk/customer360-analytics-platform">
-    <img src="https://raw.githubusercontent.com/abdallaatarekk/customer360-analytics-platform/main/screenshots/star-schema.jpeg" width="48%" alt="Customer360 star schema">
-  </a>
-</p>
-
----
 
 ## 🚀 Projects
 
