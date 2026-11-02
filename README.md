@@ -8,7 +8,6 @@
   <a href="mailto:abdallahtarek.work@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Entry--level%20Data%20%2F%20BI-2DD4BF?style=for-the-badge" alt="Open to work">
 </p>
----
 
 ## 👋 Hi, I'm Abdallah
 
