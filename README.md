@@ -14,7 +14,6 @@
 Computer Science graduate (2026) from Cairo. I build analytics that start with a business question: clean and validated data, a clear model, then dashboards people actually use.
 
 | | |
-|---|---|
 | 🎓 | BSc Computer Science, Modern Academy, graduation project **A+** |
 | 📍 | New Cairo, Egypt, open to roles in Egypt or remote |
 | 🔭 | Currently refining **Customer360**: Databricks pipeline, n8n quality checks, Power BI |
