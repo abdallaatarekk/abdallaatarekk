@@ -79,12 +79,12 @@ Explore my portfolio for additional projects, including Sales Performance Dashbo
 
 ---
 
-## Currently Learning
+## Currently Learning & Exploring
 
-- Advanced SQL and query optimization.
-- Data modeling and analytics engineering.
-- Data pipeline orchestration and automation.
-- Power BI performance optimization.
+- **Advanced SQL & SQL Server:** Query Optimization, Execution Plans, Indexing, Stored Procedures, and Advanced Window Functions.
+- **ETL & Data Warehousing:** SSIS, Incremental Data Loads, Slowly Changing Dimensions (SCD), and Dimensional Modeling.
+- **Advanced Power BI:** Dynamic Row-Level Security (RLS), DAX Optimization, Incremental Refresh, and Enterprise Report Performance.
+- **Data Orchestration:** Workflow Automation with n8n, Data Quality Monitoring, Error Handling, and exploring Apache Airflow and dbt.
 
 ## Let's Connect
 
