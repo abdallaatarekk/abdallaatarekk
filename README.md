@@ -28,7 +28,7 @@ Computer Science graduate (2026) from Cairo. I've processed 300K+ records across
 | [**Customer360 Analytics & Automation Platform**](https://github.com/abdallaatarekk/customer360-analytics-platform) | Can leadership trust one number across five systems? | `Databricks` `PySpark` `SQL` `Power BI` `n8n` |
 | [**Uber Trip Analysis**](https://github.com/abdallaatarekk/Uber_trip_analysis) | Where does revenue leak, and who drives it? | `SQL` `Business Intelligence` |
 | [**Telecom Customer Churn Analysis**](https://github.com/abdallaatarekk/Telecom-Churn-Analysis) | Who leaves, and what could keep them? | `SQL` `Power BI` |
-| [**Global Geographic Analysis**](https://github.com/abdallaatarekk/Global-Geographic-Analysis) | How do 195+ countries compare on 10+ indicators? | `Power BI` `Power Query` |
+|[**WWI Sales Performance Analysis**](https://github.com/abdallaatarekk/WWI-sales-performance-analysis) | What drives sales and profitability across customers, products, and salespeople? | `Power BI` `Power Query` `DAX`|
 
 ---
 
