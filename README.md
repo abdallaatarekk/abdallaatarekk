@@ -18,7 +18,7 @@ Computer Science graduate (2026) from Cairo. I've processed 300K+ records across
 | 🎓 | BSc Computer Science, Modern Academy, graduation project **A+** |
 | 📍 | New Cairo, Egypt, open to roles in Egypt or remote |
 | 🔭 | Currently refining **Customer360**: Databricks pipeline, n8n quality checks, Power BI |
-| 🎯 | Looking for an entry-level **Data Analyst / BI** role |
+| 🎯 | Looking for a **Data Analyst / BI** role |
 
 
 ## 🚀 Projects
