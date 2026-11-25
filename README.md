@@ -14,7 +14,7 @@
 Computer Science graduate (2026) from Cairo. I've processed 300K+ records across government, e-commerce, and telecom — building pipelines, models, and dashboards people actually use, always starting from a business question.
 
 | | |
-|---|---|
+
 | 🎓 | BSc Computer Science, Modern Academy, graduation project **A+** |
 | 📍 | New Cairo, Egypt, open to roles in Egypt or remote |
 | 🔭 | Currently refining **Customer360**: Databricks pipeline, n8n quality checks, Power BI |
